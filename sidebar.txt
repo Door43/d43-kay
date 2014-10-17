@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kay:home|Door43 (kay)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kay|d43-kay repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kay/archive/master.zip|d43-kay.zip]]
+
+**Recent Changes**
+{{changes>ns = kay}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kay|Ethnologue data]]
+
